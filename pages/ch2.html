@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>CH2 市場研究 | 市場溫習</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<nav class="nav">
+<div class="nav-brand">📚 市場溫習</div>
+<div class="nav-links">
+<a href="../index.html">🏠 首頁</a>
+<a href="qw-filter.html">🏷️ 按題型</a>
+<a href="search.html">🔍 搜尋</a>
+</div>
+</nav>
+<main class="main">
+<div class="hero">
+<h1>第2章：市場研究</h1>
+<p>12 個課題 · 3 個例子 · 即學即測</p>
+</div>
+<div class="tabs">
+<button class="tab active" onclick="switchTab('tab-cards',this)">🃏 重點記憶卡</button>
+<button class="tab" onclick="switchTab('tab-framework',this)">📋 答題框架</button>
+<button class="tab" onclick="switchTab('tab-examples',this)">📖 例子庫</button>
+<button class="tab" onclick="switchTab('tab-quiz',this)">❓ 快速測驗</button>
+</div>
+<div id="tab-cards" class="tab-content active"><div id="flashcards"></div></div>
+<div id="tab-framework" class="tab-content"><div id="framework"></div></div>
+<div id="tab-examples" class="tab-content"><div id="examples"></div></div>
+<div id="tab-quiz" class="tab-content"><div id="quiz-container"></div></div>
+</main>
+<footer>© 2026 市場溫習 · 為 DSE 考生而設</footer>
+<script src="../js/data.js"></script>
+<script src="../js/app.js"></script>
+</body>
+</html>
