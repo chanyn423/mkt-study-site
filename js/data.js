@@ -81,6 +81,8 @@
         { title: "有效市場區分準則", qw: "制訂", marks: 5, keywords: ["可量度", "可接觸", "可行動", "可區別", "大規模"], explanation: "可量度（年齡可驗證）、可接觸（SMS聯絡）、可行動（宴會套餐）、可區別（男女裝不同）、大規模（西方大碼女裝市場）", example: "年龄可以用身分證驗證，就係可量度", source: "課本 P.88 / 筆記 CH4" },
         { title: "市場細分方法：地理", qw: "解釋", marks: 2, keywords: ["國家", "城市", "地區"], explanation: "按國家、城市、地區嚟細分市場", example: "香港、九龍、新界唔同地區嘅消費者", source: "課本 P.90 / 筆記 CH4" },
         { title: "市場細分方法：人口統計", qw: "解釋", marks: 2, keywords: ["年齡", "性別", "收入", "宗教"], explanation: "按年齡、性別、收入、宗教嚟細分市場", example: "按年齡分成兒童、青少年、成年人、長者", source: "課本 P.91 / 筆記 CH4" },
+        { title: "市場細分方法：心理", qw: "解釋", marks: 2, keywords: ["社會階層", "生活方式", "個性"], explanation: "按社會階層、生活方式、個性嚟細分市場", example: "上流社會追求品味；上班族追求方便；環保人士注重永續", source: "課本 P.92 / 筆記 CH4" },
+        { title: "市場細分方法：行為", qw: "解釋", marks: 2, keywords: ["使用場合", "預期利益", "使用頻率"], explanation: "按使用場合、預期利益、使用頻率嚟細分市場", example: "節日送禮場合；追求品質利益；每日使用的產品", source: "課本 P.93 / 筆記 CH4" },
         { title: "無差異營銷策略", qw: "解釋", marks: 2, keywords: ["整個市場", "一種產品"], explanation: "用同一種產品服務成個市場", example: "自來水公司供應相同嘅水俾所有用戶", source: "課本 P.98 / 筆記 CH4" },
         { title: "差異營銷策略", qw: "解釋", marks: 2, keywords: ["多個市場", "多種產品"], explanation: "針對唔同市場推出唔同產品", example: "洗頭水推出去屑、滋潤、控油唔同配方", source: "課本 P.99 / 筆記 CH4" },
         { title: "集中營銷策略", qw: "解釋", marks: 2, keywords: ["一個市場", "專業化"], explanation: "專注一個或少數小市場", example: "公司只做男士護膚品", source: "課本 P.100 / 筆記 CH4" },
